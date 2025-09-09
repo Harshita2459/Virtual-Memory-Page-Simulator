@@ -24,9 +24,6 @@ It demonstrates key **Operating System concepts** such as **page faults, memory 
 
 ---
 
-
----
-
 ## **Getting Started**
 
 ### **1. Clone the Repository**
